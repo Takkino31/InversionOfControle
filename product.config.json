@@ -1,0 +1,5 @@
+{
+  "dao" : "dao.ProductDaoImpl",
+  "metier" : "metier.ProductMetierImpl",
+  "presentation" : "pres.ProductPresentation"
+}
